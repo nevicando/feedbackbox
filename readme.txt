@@ -21,7 +21,7 @@ PHP 5.1.2+
 USAGE
 ===============================
 Simply copy	feedbackbox.php in your website folder and include it in your pages. 
-Then choose your option:
+Then choose your options:
 - Ebay username
 - Number of comments to display
 
