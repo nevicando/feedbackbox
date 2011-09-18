@@ -5,7 +5,7 @@
 /// A simple PHP script that allows you to display eBay feedback comments in your website 
 
 /// Developed by Antonio Cosentino at Kultmedia.com
-/// Documentation: http://www.kultmedia.com/lab/feedbackbox
+/// Live Demo: http://www.kultmedia.com/lab/feedbackbox
 
 
 function feedbackbox($ebay_username, $limit){
