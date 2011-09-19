@@ -2,7 +2,7 @@ Feedbackbox 1.0
 15.09.2011
 
 Developed by Antonio Cosentino at Kultmedia.com
-Documentation: http://www.kultmedia.com/lab/feedbackbox
+Live Demo: http://www.kultmedia.com/lab/feedbackbox
 
 
 
