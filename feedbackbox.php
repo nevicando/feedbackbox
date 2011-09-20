@@ -2,7 +2,7 @@
 /// Feedbackbox 1.0
 /// 15.09.2011
 
-/// A simple PHP script that allows you to display eBay feedback comments in your website 
+/// A simple PHP script that allows you to show eBay feedback comments in your website 
 
 /// Developed by Antonio Cosentino at Kultmedia.com
 /// Live Demo: http://www.kultmedia.com/lab/feedbackbox

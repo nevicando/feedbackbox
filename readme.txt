@@ -8,7 +8,7 @@ Live Demo: http://www.kultmedia.com/lab/feedbackbox
 
 DESCRIPTION
 ===============================
-Feedbackbox is a PHP script that allows you to display eBay feedback comments in your website. The script works via RSS and it's based on "Ebay Feedback Notification Pipe", a cool service developed by Arend v. Reinersdorff which is able to convert any eBay feedback page into a Yahoo! Pipes application / RSS feed.
+Feedbackbox is a PHP script that allows you to show eBay feedback comments in your website. The script works via RSS and it's based on "Ebay Feedback Notification Pipe", a cool service developed by Arend v. Reinersdorff which is able to convert any eBay feedback page into a Yahoo! Pipes application / RSS feed.
 For more info: http://arendvr.com/2008/05/05/ebay-feedback-notification-pipe/
 
 
