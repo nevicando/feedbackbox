@@ -15,6 +15,7 @@ For more info: http://arendvr.com/2008/05/05/ebay-feedback-notification-pipe/
 REQUIREMENTS
 ===============================
 PHP 5.1.2+
+Allow url fopen enabled in your php.ini settings (allow_url_fopen = 1)
 
 
 
